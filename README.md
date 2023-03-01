@@ -1,2 +1,3 @@
 # odin-recipes
 First HTML project
+This project would be the first test run to demonstrate the fundamental skills I aqcuired regarding setting up an HTML file. I would have to write a basic HTML boilerplate (template) into an "index.html" file. Any work done would also have to be committed -with meaningful commit message- to the git repository initially created online for this mini-project. This will help cement the basic workflow I was taught in the recent few lessons I learnt via The Odin Project, and help me build a better feel for the process and practices that would potentially increase my efficiency and make it more convenient to build projects in the future.
